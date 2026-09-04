@@ -16,9 +16,13 @@ Host verification and trust signals
 
 📌 Key KPIs
 Total Listings	279,712
+
 Cities	10
+
 Property Types	144
+
 Reviews	5.37M
+
 Unique Hosts	182,024
 
 💡 Key Insights
